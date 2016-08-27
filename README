@@ -1,5 +1,7 @@
 inotify-tools
 =============
+Attention: Before you run 『configure』 in shell, you need to run 『autogen.sh』in shell firstly, that will generate the configure file. 
+           Then you can refer to the file 'INSTALL' in the current folder to complete the installation. 
 
 This is a package of some commandline utilities relating to inotify.
 
